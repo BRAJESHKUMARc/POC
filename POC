@@ -18,4 +18,50 @@ Enable report exports in both Excel and PDF formats.​
 
 The Manage Employee section should be a CRUD interface featuring a grid for listing employees and a form for creating or editing employee details. It must allow the assignment of skills to employees, with ratings out of 10 (e.g., beginner, developer, senior developer, architect). Additionally, it should capture the years of experience for each skill. Relevant employee fields include: ID, First Name, Last Name, Date of Joining (DOJ), Designation, and Email.​
 
-Implement CRUD functionality for skills, which will serve as a lookup in both the search and employee CRUD operations.​
+Implement CRUD functionality for skills, which will serve as a lookup in both the search and employee CRUD operations.​"
+
+
+
+-------------
+Angular​
+
+Version- 19​
+
+Standalone components​
+
+Angular routing​
+
+Automation Unit testing with 80% coverage​
+
+Auth Guards​
+
+RXJS​
+
+Forms Module (Template-driven or Reactive Forms)​
+
+HTTP Client Module (for API interactions)​
+
+Angular Services​
+
+Directives and Pipes​
+
+Component Communication (Input/Output decorators)​
+
+Dependency Injection​
+
+Design Style –  bootstrap or Angular Material​
+
+External NPM packages – bootstrap​
+
+Storage - localStorage for token​
+
+-----------------
+
+.Net Core Web API​
+
+Database – SQL Server​
+
+Authentication - Basic JWT Auth​
+
+
+
