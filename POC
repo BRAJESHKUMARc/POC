@@ -1,0 +1,21 @@
+Design an appealing UI page utilizing Bootstrap or Angular Material, featuring a header and left navigation. The UI must be responsive for smaller devices and smartphones.​
+
+The header should prominently display the Capgemini Engineering logo alongside the title “Employee Skill Management.”​
+
+Include a login page.​
+
+The left navigation menu should include:​
+
+Home​
+
+Manage Employee​
+
+Manage Skills​
+
+The home page should facilitate searches by employee ID, name, department, or skills. Reports should present a tabular format listing employees, highlighting their primary skills and identifying other skills as secondary.​
+
+Enable report exports in both Excel and PDF formats.​
+
+The Manage Employee section should be a CRUD interface featuring a grid for listing employees and a form for creating or editing employee details. It must allow the assignment of skills to employees, with ratings out of 10 (e.g., beginner, developer, senior developer, architect). Additionally, it should capture the years of experience for each skill. Relevant employee fields include: ID, First Name, Last Name, Date of Joining (DOJ), Designation, and Email.​
+
+Implement CRUD functionality for skills, which will serve as a lookup in both the search and employee CRUD operations.​
